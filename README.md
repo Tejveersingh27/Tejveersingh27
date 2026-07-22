@@ -366,7 +366,20 @@ Tejveer:
 
 ---
 
-<!-- ====================== CONNECT ====================== -->
+<!-- ====================== CERTIFICATIONS ====================== -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Certifications
+
+<div align="center">
+  
+  | 📜 Certification | Issuer | Details |
+  |:--|:--|:--|
+  | The Complete Full-Stack Web Development Bootcamp | Udemy — Dr. Angela Yu | [View Certificate](https://ude.my/UC-bc895696-14d0-4788-aa13-1960926730b0) |
+  
+  </div>
+  
+  ---
+  
+  <!-- ====================== CONNECT ====================== -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 
 <div align="center">
