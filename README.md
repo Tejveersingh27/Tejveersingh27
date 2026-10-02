@@ -45,7 +45,7 @@ I'm a **Computer Science Honours student at the University of Manitoba** (GPA 3.
 - 💻 **Full-Stack** — Node.js/Express/PostgreSQL and C#/ASP.NET Core backends, with React & EJS frontends
 - 🏗️ **Architecture & Testing** — layered architecture, TDD, JUnit/xUnit, dependency injection
 - 🗄️ **Data** — relational schema design, SQL, JDBC, working with large real-world datasets
-- 🧪 **Also exploring** — classical ML (scikit-learn) for data-driven side projects
+- 🧪 **Also exploring** — classical ML (scikit-learn) and LLM agents (OpenAI API) for data-driven side projects
 - 📫 **Reach me:** ghatauts@myumanitoba.ca
 
 <img align="right" src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Co--op%20Roles-6d28d9?style=flat-square&labelColor=1e1b4b" />
@@ -128,6 +128,24 @@ Structured the backend using a layered architecture to keep business logic separ
 </details>
 
 <details>
+<summary><b>🩺 Medical Fact-Checker — LLM Agent (Personal Project)</b></summary>
+
+<br>
+
+A command-line AI agent that fact-checks hantavirus health claims by searching only trusted public-health sources before asking an LLM for a verdict.
+
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | Python, OpenAI API (GPT-4o-mini), Tavily API |
+| **Grounding** | Search restricted to CDC and WHO so answers are based on trusted evidence, reducing hallucinations |
+| **Output** | Structured verdict (True / False / Misleading) with an explanation and source citations |
+| **Security** | API keys loaded from environment variables and kept out of version control |
+| **Roadmap** | FastAPI + React interface, RAG pipeline, confidence scoring, Docker & CI |
+| **Repository** | [medical-fact-checker](https://github.com/Tejveersingh27/medical-fact-checker) |
+
+</details>
+
+<details>
 <summary><b>🎯 Tier List Maker — Android App (Team Project)</b></summary>
 
 <br>
@@ -203,7 +221,6 @@ A binary sentiment-classification benchmark comparing five classical machine-lea
 
 <br>
 
-- 🩺 **HantaCheck** — A fact-checking assistant that retrieves and cites sources (CDC, WHO, PubMed) to verify medical claims, with a FastAPI backend and React frontend. [Repository](https://github.com/Tejveersingh27/hantavirus-agent)
 - ✈️ **Airport Runway Simulation** — A discrete event-driven C++ simulation modeling aircraft landing and takeoff scheduling on shared runway resources. [Repository](https://github.com/Tejveersingh27/AirportLanding-simulation)
 
 </details>
@@ -349,6 +366,7 @@ learning:
 - Writing more tests up front with TDD
 building:
 - ShiftFlow: a multi-tenant scheduling platform (C#/ASP.NET Core)
+- Medical Fact-Checker: an LLM agent grounded in CDC/WHO sources (Python)
 exploring:
 - Backend architecture & CI/CD (Docker, GitHub Actions)
 open_to:
