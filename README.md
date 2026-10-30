@@ -1,7 +1,7 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:7c3aed&height=200&section=header&text=Tejveer%20Singh%20Ghataurey&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Computer%20Science%20Honours%20Student%20%7C%20Backend%20%26%20Full-Stack&descAlignY=58&descSize=18" />
+<img width="100%" src="header.svg" alt="Tejveer Singh Ghataurey" />
 
 <a href="https://github.com/Tejveersingh27">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Computer+Science+Honours+%40+University+of+Manitoba;Building+full-stack+products+and+backend+systems;Data+Structures+%E2%80%A2+Algorithms+%E2%80%A2+Clean+Architecture" alt="Typing SVG" />
@@ -274,6 +274,17 @@ A binary sentiment-classification benchmark comparing five classical machine-lea
 |:--|:--|
 | **Team Player Award** | International College of Manitoba — September 2024 |
 | **Exceptional Academic Performance Scholarship** | International College of Manitoba — October 2023 |
+
+</div>
+
+---
+
+<!-- ====================== CONTRIBUTION SNAKE ====================== -->
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
