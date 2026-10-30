@@ -1,10 +1,10 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:7c3aed&height=200&section=header&text=Tejveer%20Singh%20Ghataurey&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:7c3aed&height=200&section=header&text=Tejveer%20Singh%20Ghataurey&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Computer%20Science%20Honours%20Student%20%7C%20Backend%20%26%20Full-Stack&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/Tejveersingh27">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Computer+Science+Honours+%40+University+of+Manitoba;Building+full-stack+products+and+backend+systems;Data+Structures+%E2%80%A2+Algorithms+%E2%80%A2+Clean+Architecture;Turning+ideas+into+production-ready+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Computer+Science+Honours+%40+University+of+Manitoba;Building+full-stack+products+and+backend+systems;Data+Structures+%E2%80%A2+Algorithms+%E2%80%A2+Clean+Architecture" alt="Typing SVG" />
 </a>
 
 <p>
@@ -27,18 +27,12 @@
 </a>
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Tejveersingh27&label=Profile%20Views&color=6d28d9&style=flat-square&labelColor=1e1b4b" />
-<img src="https://img.shields.io/github/followers/Tejveersingh27?label=Followers&style=flat-square&color=6d28d9&labelColor=1e1b4b" />
-<img src="https://img.shields.io/github/stars/Tejveersingh27?label=Stars&style=flat-square&color=6d28d9&labelColor=1e1b4b" />
-</p>
-
 </div>
 
 ---
 
 <!-- ====================== ABOUT ====================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## About Me
 
 I'm a **Computer Science Honours student at the University of Manitoba** (GPA 3.57/4.50), heading into my first co-op work term. I've always enjoyed creating things — from painting when I was younger to building software today — and that same satisfaction of turning an idea into something real is what draws me to software development.
 
@@ -53,11 +47,10 @@ I'm a **Computer Science Honours student at the University of Manitoba** (GPA 3.
 ---
 
 <!-- ====================== TECH STACK ====================== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
+## Tech Stack
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -77,10 +70,8 @@ I'm a **Computer Science Honours student at the University of Manitoba** (GPA 3.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Data**
 
@@ -94,18 +85,15 @@ I'm a **Computer Science Honours student at the University of Manitoba** (GPA 3.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)
 ![Mockito](https://img.shields.io/badge/Mockito-DD4B39?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 <!-- ====================== FEATURED PROJECTS ====================== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
+## Featured Projects
 
 <details open>
 <summary><b>🗓️ ShiftFlow — Multi-Tenant Scheduling Platform (Personal Project)</b></summary>
@@ -228,7 +216,7 @@ A binary sentiment-classification benchmark comparing five classical machine-lea
 ---
 
 <!-- ====================== EXPERIENCE ====================== -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Experience
+## Experience
 
 **Frontend Assistant** — Costco Wholesale, Winnipeg, MB
 *June 2026 – Present*
@@ -278,7 +266,7 @@ A binary sentiment-classification benchmark comparing five classical machine-lea
 ---
 
 <!-- ====================== ACHIEVEMENTS ====================== -->
-## <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="28"> Achievements
+## Achievements
 
 <div align="center">
 
@@ -291,73 +279,8 @@ A binary sentiment-classification benchmark comparing five classical machine-lea
 
 ---
 
-<!-- ====================== CODING PROFILES ====================== -->
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Coding Profiles
-
-<div align="center">
-
-<a href="https://github.com/Tejveersingh27">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42" />
-</a>
-<a href="https://linkedin.com/in/tejveer-ghataurey">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" />
-</a>
-
-</div>
-
----
-
-<!-- ====================== GITHUB ANALYTICS ====================== -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tejveersingh27&show_icons=true&theme=react&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejveersingh27&theme=react&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa" />
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejveersingh27&layout=compact&theme=react&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-<!-- ====================== TROPHIES ====================== -->
-## <img src="https://media.giphy.com/media/3ohzdBd4WrGEfLmyBW/giphy.gif" width="28"> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tejveersingh27&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
----
-
-<!-- ====================== CONTRIBUTION ACTIVITY ====================== -->
-## <img src="https://media.giphy.com/media/iPj5oRtJzQGxHU7oxk/giphy.gif" width="28"> Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejveersingh27&theme=react-dark&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<!-- ====================== SNAKE ====================== -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
 <!-- ====================== CURRENT FOCUS ====================== -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Current Focus
+## Current Focus
 
 ```yaml
 Tejveer:
@@ -371,13 +294,12 @@ exploring:
 - Backend architecture & CI/CD (Docker, GitHub Actions)
 open_to:
 - Software Engineering co-op / internship roles (Winter 2027)
-- New grad opportunities
 ```
 
 ---
 
 <!-- ====================== CERTIFICATIONS ====================== -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Certifications
+## Certifications
 
 <div align="center">
 
@@ -390,7 +312,7 @@ open_to:
 ---
 
 <!-- ====================== CONNECT ====================== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -410,8 +332,6 @@ open_to:
 
 <!-- ====================== FOOTER ====================== -->
 <div align="center">
-
-*"Turning ideas into production-ready software — one clean commit at a time."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6d28d9,100:4c1d95&height=120&section=footer" />
 
